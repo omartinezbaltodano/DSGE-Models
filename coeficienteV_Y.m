@@ -1,6 +1,6 @@
 function VY=coeficienteV_Y(a,b,c,d,gamma,tol)
 %--------------------------------------------------------------------------------
-% Propósito :  Esta función calcula el valor del coeficiente que acomana a
+% Propósito :  Esta función calcula el valor del coeficiente que acompaña a
 %              la varianza del termino de error en el calculo de la
 %              varianza de la desviacion del producto 
 %                        V[Y] = VY*V[epsilon] 
